@@ -3,7 +3,7 @@
 * {
   box-sizing: border-box;
 }
-/* ^ Make mobile either one on top of each other or one at a time when clicked another one shows up.  */
+/* ^ One at a time when clicked another one shows up then it cycles through.  */
 body {
   font-family: 'Muli', sans-serif;
   display: flex;
